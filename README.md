@@ -1,5 +1,5 @@
 # Proj03_Simulador_Sistema_Bancario
-# Simulador de Caixa Eletrônico
+# Simulador de Sistema Bancário
 
 Este é um programa simples em Python que simula as operações básicas de um caixa eletrônico. Ele utiliza estruturas de controle como laços e condicionais, seguindo princípios de boas práticas de programação, como organização do código, nomes claros e tratamento de entradas.
 
